@@ -1,5 +1,5 @@
 var sc = (text) => {
-  return text.toUpperCase() + 'YES ..';
+  return text.toUpperCase();
 };
 
 module.exports = {
